@@ -6,6 +6,7 @@
 int main(int argc, char *argv[])
 {
     qDebug() << "Your message here";
+    //dalia was here
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
