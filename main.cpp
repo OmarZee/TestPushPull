@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
     w.show();
     qDebug() << "Your message here";
     return a.exec();
+    // Omar was here
 
 
 }
